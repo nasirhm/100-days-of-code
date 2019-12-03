@@ -17,3 +17,11 @@
 **Link to work:** [Python,Boolean Challenge] https://github.com/nasirhm/onemonth-python/blob/master/Ch_2_Boolean_Practice.py
 [100DaysOfKorean] https://github.com/nasirhm/100-days-of-korean
 
+### Day 3: December 3, 2019 Monday
+
+**Today's Progress**: Working on Linux - Code In started
+
+**Thoughts:** Compeleted 2 tasks and third on the way on Project Fedora in Google Code in.
+
+**Link to work:** [Google Code in] https://codein.withgoogle.com/
+
