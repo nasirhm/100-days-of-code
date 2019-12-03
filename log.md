@@ -15,6 +15,7 @@
 **Thoughts:** In Python for Today i have studied Condtional Statements, Boolean Practice, Conditional Statements, Lists and Loops in Python3. Did the Challenge 2 from One Month, Failed in 1 =), Researching on Building a Bot for Twitter for Polyglots who are learning Korean and using #100DaysOfKorean
 
 **Link to work:** [Python,Boolean Challenge] https://github.com/nasirhm/onemonth-python/blob/master/Ch_2_Boolean_Practice.py
+
 [100DaysOfKorean] https://github.com/nasirhm/100-days-of-korean
 
 ### Day 3: December 3, 2019 Monday
