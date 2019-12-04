@@ -26,3 +26,11 @@
 
 **Link to work:** [Google Code in] https://codein.withgoogle.com/
 
+### Day 4: December 4, 2019 Monday
+
+**Today's Progress**: Hello World in Django - Some Intermediate Python3
+
+**Thoughts:** Wrote Hello World in Django, It was not too easy as haven't worked on Python before it. Easy to set up and Learned about pipenv
+
+**Link to work:** [DJango App] https://github.com/nasirhm/django-helloworld
+
