@@ -34,3 +34,11 @@
 
 **Link to work:** [DJango App] https://github.com/nasirhm/django-helloworld
 
+### Day 5: December 5, 2019 Monday
+
+**Today's Progress**: Cronjobs, OOP in Java and Stenography
+
+**Thoughts:** It was a great experience got alot to learn in Linux and Stegnoraphy. It was fun to talk to such amazing mentors too
+
+**Link to work:** [OOP in Java] : https://github.com/nasirhm/java-oops-concepts
+[CRON job] : https://github.com/nasirhm/cron-jobs-basic
