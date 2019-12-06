@@ -42,3 +42,11 @@
 
 **Link to work:** [OOP in Java] : https://github.com/nasirhm/java-oops-concepts
 [CRON job] : https://github.com/nasirhm/cron-jobs-basic
+
+### Day 6: December 6, 2019 Monday
+
+**Today's Progress**: Basic Ansible and YAML
+
+**Thoughts:** What an amazing tool Ansible is Learning it from bottom to move towards the top. 
+
+**Link to work:** [Basic Playbook] : https://gist.github.com/nasirhm/7a2e5fa6cff47c1ffa38af38e42d7cf3
