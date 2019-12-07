@@ -50,3 +50,11 @@
 **Thoughts:** What an amazing tool Ansible is Learning it from bottom to move towards the top. 
 
 **Link to work:** [Basic Playbook] : https://gist.github.com/nasirhm/7a2e5fa6cff47c1ffa38af38e42d7cf3
+
+### Day 7: December 7, 2019 Saturday
+
+**Today's Progress**: More Ansible and BizFest
+
+**Thoughts:** It's amazing and too frustrating to work on Ansible with localmachine with sudo access 
+
+**Link to work:** [Jenkins Playbook] : https://gist.github.com/nasirhm/52b9a25b2eddd6a832739fe31d70073f
