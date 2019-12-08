@@ -58,3 +58,11 @@
 **Thoughts:** It's amazing and too frustrating to work on Ansible with localmachine with sudo access 
 
 **Link to work:** [Jenkins Playbook] : https://gist.github.com/nasirhm/52b9a25b2eddd6a832739fe31d70073f
+
+### Day 8: December 8, 2019 Saturday
+
+**Today's Progress**: More Ansible and Ansible Roles
+
+**Thoughts:** Ansible's not too easy when it comes to deploying and roles
+
+**Link to work:** [Ansible Roles] : https://linuxacademy.com/blog/linux-academy/ansible-roles-explained/
