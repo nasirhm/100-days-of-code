@@ -66,3 +66,12 @@
 **Thoughts:** Ansible's not too easy when it comes to deploying and roles
 
 **Link to work:** [Ansible Roles] : https://linuxacademy.com/blog/linux-academy/ansible-roles-explained/
+
+### Day 9: December 9, 2019 Monday
+
+**Today's Progress**: Ansible Role to Install Jenkins on Linux
+
+**Thoughts:** Understood how playbooks works and how ansible roles work. It was hard at start but now Quite easy wrote another on Starting, Stopping and Restarting a Service on Linux (Fedora).
+
+**Link to work:** [Ansible Role to Install Jenkins] : https://github.com/nasirhm/ansible-roles-jenkns
+[Ansible Playbook on Service Control] : https://github.com/nasirhm/Ansible-Service-Tasks
