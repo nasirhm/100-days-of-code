@@ -75,3 +75,38 @@
 
 **Link to work:** [Ansible Role to Install Jenkins] : https://github.com/nasirhm/ansible-roles-jenkns
 [Ansible Playbook on Service Control] : https://github.com/nasirhm/Ansible-Service-Tasks
+
+### Day 10: December 10, 2019 Tuesday
+
+**Today's Progress**: Ansible Playbook to Automate Installation of Tensorflow
+
+**Thoughts:** Got to work on Ansible to automate the Installation of Google Tensorflow on Linux Host.
+
+**Link to work:** [Ansible Role to Install Tensorflow by pip] : https://github.com/nasirhm/ansible-playbook-tensorflow
+
+### Day 11: December 11, 2019 Wednesday
+
+**Today's Progress**: Ansible Module to get HTTP Response Code & Role to Add new User
+
+**Thoughts:** It's amazing how we can automate tasks using Ansible on all our severs by simple Playbooks.
+
+**Link to work:** [Ansible Module to get HTTP Response Code]: https://github.com/nasirhm/Ansible-Module-ResponseCode
+[Ansible Role to Add User]: https://github.com/nasirhm/ansible-roles-addUser
+
+### Day 12: December 12, 2019 Wednesday
+
+**Today's Progress**: Ansible Roles to Fix HeartBleed Valneurablity & Some ML Maths
+
+**Thoughts:** Ansible Roles are amazing in terms of dividing Playbooks functionality and broaden it. Some Machine Learning Match included Linear Regression, Gradient Descent & Matrices & Stuff. Couldn't understand all of it but some thing is better than nothing
+
+**Link to work:** [Ansible Role to Fix Heartbleed]: https://github.com/nasirhm/Ansible-Roles-Heartbleed
+[Course by Andrew Ng on Machine Learning]: https://www.coursera.org/learn/machine-learning/
+
+### Day 13: December 13, 2019 Friday
+
+**Today's Progress**: Got into Ansible Vault & Wrote an Article on It
+
+**Thoughts:** Ansible Vault is amazing to its capability how we can encrypt inside Ansible. 
+
+**Link to work:** [Ansible Vault]: https://github.com/nasirhm/Ansible-Vault
+[Article]: https://dev.to/nasirhm/ansible-vault-4kg4
