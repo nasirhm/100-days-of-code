@@ -110,3 +110,10 @@
 
 **Link to work:** [Ansible Vault]: https://github.com/nasirhm/Ansible-Vault
 [Article]: https://dev.to/nasirhm/ansible-vault-4kg4
+
+### Day 14 & 15 : December 14 & 15, 2019
+
+**Today's Progress**: Learning about Linear Algebra for Machine Learning and some basic Linux.
+
+**Thoughts:** Rather than jumping on the ML space, Took a step back cleared some of the essential Math Concepts which go inti ML.
+
