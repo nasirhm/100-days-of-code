@@ -117,3 +117,20 @@
 
 **Thoughts:** Rather than jumping on the ML space, Took a step back cleared some of the essential Math Concepts which go inti ML.
 
+### Day 16 : December 23, 2019
+
+**Today's Progress**: Learnt about Jupyter Notebook and Pandas and some Social Innovation too
+
+**Thoughts:** Jupyter's Remarkable in terms of it's Usability and Functionality. 
+
+**Links to work:** [One Month Python] : https://github.com/nasirhm/onemonth-python
+[Social Innovation] : https://www.coursera.org/learn/social-innovation/
+
+### Day 17 : December 24, 2019
+
+**Today's Progress**: Basic Flutter & Some fun with Manim
+
+**Thoughts:** Flutter's amazing in terms of design & tried some basic concepts in manim
+
+**Links to work:** [Manim] : https://github.com/nasirhm/Fun_Manim
+[Flutter] : https://flutter.dev/
