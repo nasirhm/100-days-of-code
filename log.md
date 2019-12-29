@@ -134,3 +134,44 @@
 
 **Links to work:** [Manim] : https://github.com/nasirhm/Fun_Manim
 [Flutter] : https://flutter.dev/
+
+### Day 18 : December 25, 2019
+
+**Today's Progress**: Basic LaTeX & Some Pandas on Jupyter
+
+**Thoughts:** LaTeX's a little difficult in the begining but after sometime it's fun to work on It
+
+**Links to work:** [Intro-LaTeX] : https://pagure.io/Basic-LaTeX
+[Jupyter] : https://github.com/nasirhm/onemonth-python/tree/master/Jupyter-Week3
+
+### Day 19 : December 26, 2019
+
+**Today's Progress**: Basic Maths in GNU Octave
+
+**Thoughts:** Octave's really easy to prototype models in. Tried Single & Multivariant Linear Regression
+
+**Links to work:** [Machine Learning] : https://www.coursera.org/learn/machine-learning
+
+### Day 20 : December 27, 2019
+
+**Today's Progress**: Learning about minishift
+
+**Thoughts:** Quite Excited.
+
+**Links to work:** [Minishift] : https://docs.okd.io/latest/architecture/index.html#architecture-index
+
+### Day 21 : December 28, 2019
+
+**Today's Progress**: Successful to Setup Minishift with Docker
+
+**Thoughts:** Had alot of Problems, In the end it was just a docker-machines network error
+
+**Links to work:** [Minishift] : https://docs.okd.io/latest/architecture/index.html#architecture-index
+
+### Day 22 : December 29, 2019
+
+**Today's Progress**: FontForge Basic
+
+**Thoughts:** Wanna Make your Own Font, Go for FontForge
+
+**Links to work:** [FontForge] : https://fontforge.org/en-US/
